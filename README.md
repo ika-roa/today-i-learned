@@ -2,4 +2,4 @@
 
 Short snippets of stuff I learned.
 
-[git]
+[git](#git)
