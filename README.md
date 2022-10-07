@@ -7,7 +7,7 @@ variety of fields and technologies.
 
 ---
 
-### Categories
+## Categories
 
 * [git](git)
 * [python](python)
