@@ -21,6 +21,7 @@ variety of fields and technologies.
 - [git nah](git/git_nah.md)
 - [git undo add](git/git_undo_add.md)
 - [git reset, restore and revert](git/git_reset_restore_revert.md)
+- [git undo initial commit](git/git_undo_initial_commit.md)
 
 
 ### python
