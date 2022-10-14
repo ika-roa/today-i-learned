@@ -24,7 +24,7 @@ variety of fields and technologies.
 ### conda
 - [conda remove package](conda/conda_remove_package.md)
 
-- 
+
 ### git
 - [git branching](git/git_branching.md)
 - [git change default editor](git/git_change_editor.md)
