@@ -13,7 +13,7 @@ variety of fields and technologies.
 * [markdown](markdown)
 * [PyCharm](pycharm)
 * [conda](conda)
-
+* [linux](linux)
 
 ---
 
@@ -35,5 +35,11 @@ variety of fields and technologies.
 ### pycharm
 - [pycharm show colored pytest output](pycharm/pycharm_colored_output.md)
 
+
 ### conda
 - [conda remove package](conda/conda_remove_package.md)
+
+
+### linux
+- [linux show hidden files](linux/linux_show_hidden_files.md)
+- 
